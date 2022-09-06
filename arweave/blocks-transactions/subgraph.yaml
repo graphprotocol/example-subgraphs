@@ -1,6 +1,6 @@
 specVersion: 0.0.5
 description: Arweave Blocks Indexing
-repository: https://github.com/graphprotocol/example-subgraph
+repository: https://github.com/graphprotocol/example-subgraphs
 schema:
   file: ./schema.graphql
 dataSources:
