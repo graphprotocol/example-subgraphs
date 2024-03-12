@@ -1,4 +1,5 @@
-# Example Subgraphs
+# Example Subgraph
 
-A collection of subgraph examples to help developers get started with The Graph.
-Please see [the documentation](https://thegraph.com/docs) for more information.
+Example subgraphs have been moved to the [Graph Tooling repository](https://github.com/graphprotocol/graph-tooling/tree/main/examples)
+
+For more information see the docs on https://thegraph.com/docs/.
